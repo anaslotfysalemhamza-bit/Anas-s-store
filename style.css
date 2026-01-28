@@ -456,6 +456,7 @@ header .bottom_header .nav_links li.active a{
     top: 10px;
     right: 10px;
     z-index: 2;
+    border-radius: 10px;
     background: #ed0505;
     color: var(--white_color);
     padding: 4px 10px;
